@@ -11,4 +11,4 @@ Neste projeto você terá o desafio de criar uma cópia do jogo do dinossauro, f
 Modificações feitas por mim:
 
  - Adição de um botão para iniciar o jogo;
- - mudanças na forma iniciar o jogo;
+ - mudanças na forma de iniciar o jogo;
